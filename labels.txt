@@ -1,0 +1,3 @@
+0 Rucksack
+1 Jacke
+2 Flasche
